@@ -9,9 +9,17 @@ First try by using Eclipse
 Add some more information
 
 
-This tast01 
+This task01 
+if(task01)
+{
+	for(int i=0; i<array.size(); i++)
+		k = k+1;
+}
+	
 
-for(int i=0; i<array.size(); i++)
-	k = k+1;
-	
-	
+task 02
+if(task02)
+{
+	for(int i=0; i<array.size(); i--)
+		k = k+i
+}
