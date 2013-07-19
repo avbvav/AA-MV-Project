@@ -1,3 +1,0 @@
-this is d.txt
-
-make some changes in d.txt
