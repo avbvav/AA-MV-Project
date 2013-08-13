@@ -23,3 +23,6 @@ if(task02)
 	for(int i=0; i<array.size(); i--)
 		k = k+i
 }
+
+
+how
